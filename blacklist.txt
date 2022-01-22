@@ -1,4 +1,6 @@
-#2022.01.23更新
+# 2022.01.23更新
+# 自用规则，以下内容包含部分正常网站，比如：*://*.z.baidu.com/*，请注意
+# 
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.1001yx.com/*
@@ -314,7 +316,6 @@
 *://portfolium.com/*
 *://scguteli.com/*
 *://sgjarts.com/*
-*://sites.google.com/*
 *://social.lhquan.com/*
 *://taojinpu.cn/*
 *://the-soul-2021-twchinese.tumblr.com/*
