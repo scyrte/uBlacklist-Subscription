@@ -1,4 +1,4 @@
-# 2022.01.23更新
+# 2022.02.16更新
 # 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 # 
 *://*.000.org.cn/*
@@ -7,15 +7,19 @@
 *://*.114mi.com/*
 *://*.18qvod.com/*
 *://*.1d9z.com/*
+*://*.1lyx.com/*
 *://*.202.108.8.89/*
 *://*.23cpc.com/*
+*://*.24bharatnews.com/*
 *://*.24withyoo.com/*
 *://*.33jj.com/*
 *://*.3d.54882.com/*
 *://*.3rxing.org/*
 *://*.400839.com/*
+*://*.435yu.com/*
 *://*.4399.com/*
 *://*.4fei.cn/*
+*://*.5180ipo.com/*
 *://*.5a3q.com/*
 *://*.6zhen.cn/*
 *://*.71top.com/*
@@ -29,11 +33,14 @@
 *://*.999seling.com/*
 *://*.9kantv.net/*
 *://*.acm.gov.pt/*
+*://*.aijka2.me/*
 *://*.allweblink.com/*
 *://*.anqu998.com/*
 *://*.app.3987.com/*
+*://*.aussiehousemarket.com/*
 *://*.av8833.com/*
 *://*.avxfree.com/*
+*://*.aznpic.com/*
 *://*.baba100.com/*
 *://*.baidu.com.bdhhhome.com/*
 *://*.baidu.mobi/*
@@ -77,7 +84,9 @@
 *://*.duobiji.com/*
 *://*.dwgog.cn/*
 *://*.dxxc.com/*
+*://*.dzhlt.com/*
 *://*.ebflux.com/*
+*://*.ecommerce-folks.com/*
 *://*.eooele.com/*
 *://*.eqisou.net/*
 *://*.ericacarrclasses.com/*
@@ -89,16 +98,17 @@
 *://*.fzjdkj.com/*
 *://*.gfsousou.cn/*
 *://*.glnav.com/*
-*://*.google.com/*
 *://*.guojixiangqidesuanfen.isap2000.com/*
 *://*.haige120.cn/*
 *://*.hanlefang.net/*
 *://*.hap1.ucweb.com.cn/*
 *://*.hbgreen.com/*
 *://*.hbvtc857.com/*
+*://*.hfhcl.com/*
 *://*.hnnn.net/*
 *://*.hotbak.net/*
 *://*.hozz.cn/*
+*://*.huayue56.com/*
 *://*.hubei.me/*
 *://*.hzqbb.cn/*
 *://*.ichacha.net/*
@@ -106,6 +116,7 @@
 *://*.it.findeen.com/*
 *://*.izhufu.net/*
 *://*.jiyudeng.buguangdeng.com/*
+*://*.jpgk.com.cn/*
 *://*.jtche.com/*
 *://*.jueshi.in/*
 *://*.jujia9.com/*
@@ -119,7 +130,9 @@
 *://*.leinuoda68.cn/*
 *://*.lengfeng.net/*
 *://*.liderozelopelservisi.com/*
+*://*.lilouvideos.com/*
 *://*.lizhidy.com/*
+*://*.ltncg.com/*
 *://*.lunlidianying.info/*
 *://*.m.so.jusoso.com/*
 *://*.m.svwlx.cn/*
@@ -129,6 +142,7 @@
 *://*.m1977.com/*
 *://*.mall.yzhbw.net/*
 *://*.marshluca.com/*
+*://*.masaic168.com/*
 *://*.mcbbc.net/*
 *://*.mdidi.net/*
 *://*.mediamass.net/*
@@ -146,6 +160,7 @@
 *://*.pai-hang-bang.com/*
 *://*.paseoparkview.com/*
 *://*.power.baidu.com/*
+*://*.prinevillesda.org/*
 *://*.programgo.com/*
 *://*.proteome.cn/*
 *://*.proxxoo.com/*
@@ -171,15 +186,20 @@
 *://*.raggedyan.com/*
 *://*.rdyey.com.cn/*
 *://*.s900f.com/*
+*://*.saharareporters.com/*
+*://*.sdquda.com/*
 *://*.sdss.cn/*
 *://*.sdyongqiang.net/*
 *://*.sdzhqp.com/*
 *://*.search.discuz.qq.com/*
 *://*.search.taobao.com/*
 *://*.search8.taobao.com/*
+*://*.shangjinlieren.top/*
 *://*.shh9.com/*
+*://*.shopee.com.my/*
 *://*.shsgy.com/*
 *://*.skbpw.com/*
+*://*.sktschool.com/*
 *://*.so.100lw.com/*
 *://*.so.360kan.com/*
 *://*.so.anggang.com/*
@@ -193,12 +213,14 @@
 *://*.soba123.com/*
 *://*.softwaremadman.blogspot.com/*
 *://*.somjj.com/*
+*://*.suinishua.com/*
 *://*.susoba.com/*
 *://*.sywq119.com/*
 *://*.szmhddzkj168.com.cn/*
 *://*.szrdedu.com/*
 *://*.tclyy.com/*
 *://*.teapm.com/*
+*://*.tenglangvpn.com/*
 *://*.test.jwxlschool.com/*
 *://*.teyuesh.com/*
 *://*.tianjinlanyin.cn/*
@@ -207,6 +229,7 @@
 *://*.tongfengqu.com/*
 *://*.tongfengqu.com/*
 *://*.torrentz-proxy.com/*
+*://*.trickjadu.com/*
 *://*.tt27.tv/*
 *://*.ttoo.cc/*
 *://*.tuan.elong.com/*
@@ -216,6 +239,7 @@
 *://*.tw.kuaiso.com/*
 *://*.tw116.com/*
 *://*.tweets.seraph.me/*
+*://*.txcsjlb.com/*
 *://*.txfkc.com/*
 *://*.u8588.com/*
 *://*.uoobao.com/*
@@ -243,9 +267,12 @@
 *://*.xp810.com/*
 *://*.xsybtqp.com/*
 *://*.xuzhoushiduchang.qsyonline.com/*
+*://*.yatt.cc/*
 *://*.yc23.cn/*
 *://*.yeezhe.cn/*
+*://*.yingtwo.com/*
 *://*.ynvns.cn/*
+*://*.youxi369.com/*
 *://*.yuhuxx.com/*
 *://*.yumuji.com/*
 *://*.yunfan.com/*
