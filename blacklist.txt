@@ -1,5 +1,5 @@
 # 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
-# 2022.9.19
+# 2022.10.12
 # 
 *://*.000.org.cn/*
 *://*.001nlp.com/*
@@ -689,3 +689,30 @@
 *://*.zizhuzhishi.com/*
 *://*.znzvz.vip/*
 *://*.ztaid.icu/*
+*://*.rekhta.org/*
+*://*.pilgrim.net/*
+*://*.chemspider.com/*
+*://*.raseef22.net/*
+*://*.hudsonshoes.com/*
+*://*.currenciesdirect.com/*
+*://*.indifferentlanguages.com/*
+*://*.yabla.com/*
+*://*.onisep.fr/*
+*://*.wijld.com/*
+*://*.haisco.com/*
+*://*.aacps.org/*
+*://*.alkalisci.com/*
+*://*.gamergen.com/*
+*://*.swastikfabs.in/*
+*://*.bama.com.vn/*
+*://*.gtbicycles.com/*
+*://*.maomaomom.com/*
+*://*.pacificcoastlighting.com/*
+*://*.wcs.edu/*
+*://*.tellychakkar.com/*
+*://*.etherwanstore.com/*
+*://*.lorientlejour.com/*
+*://*.news24.com/*
+*://*.zwoasi.com/*
+*://*.shabdkosh.com/*
+*://*.0757kyw168.com/*
