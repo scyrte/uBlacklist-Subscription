@@ -2,7 +2,10 @@
 # 2023.2.3
 # 
 
-title/^.*(推荐|注册网|手输网|输入|2000|ek520|seetv|ezk888|xiaobi|3233|au).*/
+title/^.*(推荐|注册网|手输网|输入|2000|ek520|seetv|ezk888|xiaobi|3233|bb8808).*/
+*://*.beyerdynamic.com.au/*
+*://*.uxmatters.com/*
+*://*.unsplash.com/*
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.1001yx.com/*
