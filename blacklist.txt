@@ -2,7 +2,7 @@
 # 2023.2.3
 # 
 
-title/^.*(推荐|注册网|手输网|输入|2000|ek520|seetv|ezk888|xiaobi|3233|bb8808).*/
+title/^.*(推荐|推广|注册网|手输网|输入|ek520|seetv|ezk888|xiaobi|3233|bb8808|liuhenvip|✔️).*/
 *://*.beyerdynamic.com.au/*
 *://*.uxmatters.com/*
 *://*.unsplash.com/*
@@ -1037,3 +1037,26 @@ title/^.*(推荐|注册网|手输网|输入|2000|ek520|seetv|ezk888|xiaobi|3233|
 *://*.6parkbbs.com/*
 *://*.frederiqueconstant.com/*
 *://*.nasa.gov/*
+*://*.beyerdynamic.com.au/*
+*://*.uxmatters.com/*
+*://*.unsplash.com/*
+*://*.umcsn.com/*
+*://*.brown.edu/*
+*://*.amazon.com/*
+*://*.mobilite-mobiliteit.brussels/*
+*://*.mygovid.gov.au/*
+*://*.adzjtvo.xyz/*
+*://*.nhgcbbq.xyz/*
+*://*.ccqieda.xyz/*
+*://*.ylmvawp.xyz/*
+*://*.lkucrbp.xyz/*
+*://*.zhdigpi.xyz/*
+*://*.advqlop.xyz/*
+*://*.rxfdzcu.xyz/*
+*://*.hdpjeez.xyz/*
+*://*.zjhizbd.xyz/*
+*://*.jgoujrq.xyz/*
+*://*.oudcxix.xyz/*
+*://*.krguhyg.xyz/*
+*://*.ozwlisp.xyz/*
+*://*.dzebruu.xyz/*
